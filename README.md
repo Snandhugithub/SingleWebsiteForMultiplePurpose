@@ -12,16 +12,16 @@ Image, Audio, Video, Tabular Column, Animation, Translation and Background.
     JavaScript
 
 # Installation
-Installation
+
 Provide steps for someone who wants to clone and run your website locally. 
 
 For instance:
 
-Clone the repository: git clone https://github.com/your-username/your-repo.git
+Clone the repository.
 
-Navigate to the project directory: cd your-repo
+Navigate to the project directory.
 
-Open index.html in your web browser.
+Open Website.html in your web browser.
 
 # Reference
 This website is create with help for taking reference with W3SCHOOLS

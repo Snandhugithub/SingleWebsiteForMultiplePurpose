@@ -14,9 +14,13 @@ Image, Audio, Video, Tabular Column, Animation, Translation and Background.
 # Installation
 Installation
 Provide steps for someone who wants to clone and run your website locally. 
+
 For instance:
+
 Clone the repository: git clone https://github.com/your-username/your-repo.git
+
 Navigate to the project directory: cd your-repo
+
 Open index.html in your web browser.
 
 # Reference
